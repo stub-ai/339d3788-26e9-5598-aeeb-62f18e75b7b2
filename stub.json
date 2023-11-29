@@ -1,1 +1,1 @@
-{"config":{"system_prompt":"","model":"","temperature":0,"top_p":1,"framework":"nextjs-page-tailwind"},"prompts":[{"prompt":"create an API that can be used to query a database","md5":"6ffc4b4fddded06e64d3dc252350a6b4"}]}
+{"config":{"system_prompt":"","model":"","temperature":0,"top_p":1,"framework":"nextjs-page-tailwind"},"prompts":[{"prompt":"create an API that can be used to query a database","md5":"6ffc4b4fddded06e64d3dc252350a6b4"},{"prompt":"create a FastAPI application in Python for querying a MySQL database","md5":"09bb05e9e6ee37dce10f824d0263031f"}]}
